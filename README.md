@@ -35,5 +35,5 @@ The code uses the open() function to open the file for reading, and the strip() 
 
 If the first word is LD, ADD, SUB, AND, OR, XOR, NOT, INC, DEC, ADDHL, ADCHL, SUBHL, SBCHL, JP, JR, CALL, RET, RST, PUSH, or POP, the code prints a description of the instruction. If the first word is not one of these instructions, or if the line is empty or a comment, the code skips the line.
 
-This code can be useful for learning about  assembly code, or for analyzing a program written in Z80 assembly. However, it does not actually execute the assembly code or produce any output other than the descriptions of the instructions. To actually execute the assembly code and produce output, you would need to use an assembler and  emulator or simulator.                  
+This code can be useful for learning about  assembly code, or for analyzing a program written in  assembly. However, it does not actually execute the assembly code or produce any output other than the descriptions of the instructions. To actually execute the assembly code and produce output, you would need to use an assembler and  emulator or simulator.                  
                       
